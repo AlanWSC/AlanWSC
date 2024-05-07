@@ -41,7 +41,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanWSC&bg_color=0d1117&layout=compact&custom_title=Linguagens+usadas)
 
-![AlanWSC GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanWSC&show_icons=true&theme=transparent)
+
 ### 🚀 **Último Projeto - Last Project**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlanWSC&repo=Graph)](https://github.com/AlanWSC/Graph)
