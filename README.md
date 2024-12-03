@@ -1,7 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?type=waving&color=0000ff&size=35&center=true&vcenter=true&width=1400&lines=Hi+there,+my+name+is+Alan+Walace+Silva+Corrêa;Welcome+to+my+profile+🖖)](https://git.io/typing-svg)
 
 ### **Sobre mim** 🖖🤓  
-👨‍🎓 **Cursando o 7º semestre de ciência da computação na Universidade Federal do Pará(UFPA)**
+👨‍🎓 **Cursando o último semestre de ciência da computação na Universidade Federal do Pará(UFPA)**
 
 😍 **Amante de gatos, RPG, música, jogos e livros fantásticos como:** _Harry Potter_ e _Senhor dos Anéis_
 
@@ -10,7 +10,7 @@
 🧐 **Pretendo, futuramente, o mestrado na área com o foco em computação verde, análise, ciência de dados e, se possível, mesclar esse conhecimento junto com a IA.**
 
 ### **About me** 🖖🤓 
-👨‍🎓 **Cursing the 7th semester of computer science at the Federal University of Pará (UFPA).**
+👨‍🎓 **Studying the last semester of computer science at the Federal University of Pará (UFPA)**
 
 😍 **Lover of cats, RPGs, music, games and fantastic books like:** _Harry Potter_ and _Lord of the Rings_
 
