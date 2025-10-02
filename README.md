@@ -7,8 +7,8 @@
 😍 **Amante de gatos, RPG, música, jogos e livros**
 
 🔍 **Artigo publicado na Sociedade Brasileira de Computação. 
-Título: Pegada de Carbono em Ambientes Acadêmicos: análise das
-emissões de carbono em laboratórios de computacão.**
+Título: [Pegada de Carbono em Ambientes Acadêmicos: análise das
+emissões de carbono em laboratórios de computacão](https://sol.sbc.org.br/index.php/wcama/article/view/36102).**
 
 🧐 **Pretendo futuramente o mestrado na área com o foco em computação verde e dados.**
 
