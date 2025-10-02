@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?type=waving&color=0000ff&size=35&center=true&vcenter=true&width=1400&lines=Welcome+to+my+profile+🖖)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?type=waving&color=0000ff&size=35&center=true&vcenter=true&width=1400&lines=Welcome+to+my+profile)](https://git.io/typing-svg)
 
 
 ### **Sobre mim** 🖖🤓  
@@ -12,7 +12,7 @@ emissões de carbono em laboratórios de computacão.**
 
 🧐 **Pretendo futuramente o mestrado na área com o foco em computação verde e dados.**
 
-### 🤓 **Tecnologias Aprendidas** - **Technologies Learned**
+### 🤓 **Tecnologias Aprendidas**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly Dash](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
